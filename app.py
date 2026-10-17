@@ -21,7 +21,7 @@ MENU_TEA = {
     "Trà Sữa Dâu Tây": 35000,
     "Trà Đào Cam Sả": 35000,
     "Trà Dâu Tằm": 32000,
-    "Hồng trà sủi bọt": 250000,
+    "Hồng trà sủi bọt": 25000,
 }
 
 SIZE_OPTIONS = {
